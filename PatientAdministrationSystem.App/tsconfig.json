@@ -9,6 +9,6 @@
     }
   ],
   "compilerOptions": {
-    "types": ["vitest"]
+    "types": ["vitest/globals"],
   }
 }

@@ -1,6 +1,4 @@
-using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
-using PatientAdministrationSystem.Application.Entities;
 using PatientAdministrationSystem.Application.Repositories.Interfaces;
 using PatientAdministrationSystem.Application.Dto;
 

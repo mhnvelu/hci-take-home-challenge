@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Moq;
 using PatientAdministrationSystem.Application.Interfaces;
-using PatientAdministrationSystem.Application.Entities;
 using PatientAdministrationSystem.Application.Dto;
 using Hci.Ah.Home.Api.Gateway.Controllers.Patients;
 using FluentAssertions;
