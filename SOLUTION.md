@@ -24,8 +24,8 @@ A Health Care Informed customer needs to be able to_ find patient visit informat
 -   Case sensitive search.
 
 #### Test cases
--   Test cases for SearchForm component, patientSearchService.tsx has been written.
--   Test cases for ResultsTable, App.tsx can be written.
+-   Test cases for SearchForm component, ResultsTable has been written.
+-   Outlined Test cases for patientSearchService.tsx, App.tsx.
 
 #### Good to have features
 -   Instead of typing the whole name(first or last), it would be useful for user of the application if we support type ahead/ auto complete feature for these fields and display the results in a drop down. 
@@ -41,7 +41,7 @@ A Health Care Informed customer needs to be able to_ find patient visit informat
 
 #### Test cases
 -   Unit tests for PatientController has been written.
--   Unit tests for Repository can be written.
+-   Unit tests for Repository are outlined.
 
 ## How to run
 ### Clone the repo
