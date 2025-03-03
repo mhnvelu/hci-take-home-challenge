@@ -23,6 +23,10 @@ A Health Care Informed customer needs to be able to_ find patient visit informat
 -   No pagination supported on the results table.
 -   Case sensitive search.
 
+#### Test cases
+-   Test cases for SearchForm component, patientSearchService.tsx has been written.
+-   Test cases for ResultsTable, App.tsx can be written.
+
 #### Good to have features
 -   Instead of typing the whole name(first or last), it would be useful for user of the application if we support type ahead/ auto complete feature for these fields and display the results in a drop down. 
 -   Case insensitve search is needed.
@@ -34,6 +38,10 @@ A Health Care Informed customer needs to be able to_ find patient visit informat
 -   A REST api /api/patients/search accepts query params firstName, lastName, hospitalName
 -   The api is simple to handle search operation. It can support new search parameter easily.
 -   But if number of search parameters increases, this method needs to handle many conditional checks based on the business requirements.
+
+#### Test cases
+-   Unit tests for PatientController has been written.
+-   Unit tests for Repository can be written.
 
 ## How to run
 ### Clone the repo
